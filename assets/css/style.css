@@ -1,0 +1,38 @@
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Tahoma';
+    font-size: 48px;
+    background-color: rgb(65, 64, 64);
+    text-shadow: 3px 3px black;
+}
+
+nav p{
+    font-family: "Lucida Sans Unicode";
+    text-indent: 40px;
+    word-spacing: 10px;
+}
+
+main p{
+    text-indent: 60px;
+    word-spacing: 10px;
+}
+
+h2{
+    text-shadow: 2px 2px 1px darkgray;
+    letter-spacing: 10px;
+}
+
+section p{
+    background-color: darkgray;
+    line-height: 20px;
+
+}
+
+aside p{
+    color: white;
+    background-color: rgb(65, 64, 64);
+    line-height: 40px;
+
+}
