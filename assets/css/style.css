@@ -2,14 +2,14 @@
 h1{
     color: white;
     text-align: center;
-    font-family: 'Tahoma';
+    font-family: Tahoma;
     font-size: 48px;
     background-color: rgb(65, 64, 64);
     text-shadow: 3px 3px black;
 }
 
 nav p{
-    font-family: "Lucida Sans Unicode";
+    font-family: 'Lucida Sans Unicode'f;
     text-indent: 40px;
     word-spacing: 10px;
 }
